@@ -1,0 +1,28 @@
+{
+  "banner": [
+    {
+      "id": 1,
+      "titulo": "Travis Scott",
+      "texto": "Concierto de Travis Scott 12-2022",
+      "img": "travis.png"
+    },
+    {
+      "id": 2,
+      "titulo": "Coldplay",
+      "texto": "Gira mundial de Coldplay",
+      "img": "Coldplay.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Maluma",
+      "texto": "Concierto en el Grand Prix de Formula 1",
+      "img": "maluma.png"
+    },
+    {
+      "id": 4,
+      "titulo": "Charlie Puth",
+      "texto": "Exitoso albúm de Charlie Puth - Voicenotes",
+      "img": "charlie.jpg"
+    }
+  ]
+}
